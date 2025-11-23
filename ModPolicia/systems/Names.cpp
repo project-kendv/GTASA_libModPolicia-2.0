@@ -8,12 +8,6 @@ std::vector<Name> Names::m_Names = {
     {"Tamires Pereira", SkinGenre::SKIN_FEMALE}
 };
 
-std::map<int, std::string> Names::m_WeaponNames = {
-    {22, "9mm"},
-    {24, "Desert"},
-    {25, "Shotgun"},
-    {31, "M4"}
-};
 
 std::map<int, std::string> Names::m_SkinNames = {
     {280, "LAPD"},
