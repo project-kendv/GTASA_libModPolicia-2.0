@@ -12,7 +12,6 @@ std::map<int, std::string> Names::m_WeaponNames = {
     {22, "9mm"},
     {24, "Desert"},
     {25, "Shotgun"},
-    {29, "MP5"},
     {31, "M4"}
 };
 
