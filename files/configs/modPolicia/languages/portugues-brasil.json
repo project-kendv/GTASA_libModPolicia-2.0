@@ -138,19 +138,19 @@
 	"ticket3": "Usando celular no volante",
 	"ticket4": "Dirigir sem capacete",
 
-	"request_backup": "~b~[Policial] ~w~COPOM, solicito apoio acompanhamento",
-	"request_backup_bike": "~b~[Policial] ~w~COPOM, solicito apoio da ROCAM",
-	"request_backup_heli": "~b~[Policial] ~w~COPOM, solicito apoio do Aguia",
-	"request_backup_special": "~b~[Policial] ~w~COPOM, solicito apoio de uma viatura especial",
-	"request_barrier": "~b~[Policial] ~w~COPOM, solicito unidade de bloqueio na pista",
-	"request_spikes": "~b~[Policial] ~w~COPOM, solicito unidade com espinhos na pista",
-	"request_ambulance": "~b~[Policial] ~w~COPOM, solicito apoio da ambulancia",	
-	"request_iml": "~b~[Policial] ~w~COPOM, solicito apoio do IML",
-	"request_tow_truck": " ~b~[Policial] ~w~COPOM, solicito apoio de um guincho",
-	
-	"CALLOUT_ASSAULT": "~g~[COPOM] ~w~Solicito uma viatura para atender ocorrencia de desentendimento",
-	"CALLOUT_GANG_SHOTS_FIRED": "~g~[COPOM] ~w~Solicito uma viatura para atender ocorrencia de tiros disparados",
-	"CALLOUT_STOLEN_VEHICLE": "~g~[COPOM] ~w~Um veiculo roubado foi identificado pelas cameras do olho vivo",
-	"CALLOUT_HOUSE_INVASION": "~g~[COPOM] ~w~Recebemos uma denuncia de invasao domiciliar",
-	"CALLOUT_CHASE": "~g~[COPOM] ~w~Uma viatura solicita apoio para uma perseguicao em andamento"
+  "request_backup": "~b~[Officer] ~w~COPOM, I request backup/escort support",
+  "request_backup_bike": "~b~[Officer] ~w~COPOM, I request support from ROCAM (motorcycle unit)",
+  "request_backup_heli": "~b~[Officer] ~w~COPOM, I request support from Aguia (helicopter unit)",
+  "request_backup_special": "~b~[Officer] ~w~COPOM, I request support from a special patrol vehicle",
+  "request_barrier": "~b~[Officer] ~w~COPOM, I request a unit to set up a roadblock on the roadway",
+  "request_spikes": "~b~[Officer] ~w~COPOM, I request a unit with spike strips on the roadway",
+  "request_ambulance": "~b~[Officer] ~w~COPOM, I request support from the ambulance",
+  "request_iml": "~b~[Officer] ~w~COPOM, I request support from the IML (Medical Examiner's Office)",
+  "request_tow_truck": "~b~[Officer] ~w~COPOM, I request support from a tow truck",
+
+  "CALLOUT_ASSAULT": "~g~[COPOM] ~w~Requesting a unit to respond to an altercation/dispute incident",
+  "CALLOUT_GANG_SHOTS_FIRED": "~g~[COPOM] ~w~Requesting a unit to respond to a shots-fired incident",
+  "CALLOUT_STOLEN_VEHICLE": "~g~[COPOM] ~w~A stolen vehicle was identified by the Olho Vivo cameras",
+  "CALLOUT_HOUSE_INVASION": "~g~[COPOM] ~w~We received a report of a home invasion",
+  "CALLOUT_CHASE": "~g~[COPOM] ~w~A unit is requesting support for an ongoing pursuit"
 }
